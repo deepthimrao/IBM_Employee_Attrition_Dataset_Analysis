@@ -7,16 +7,14 @@
 
 To help the organization overcome the issue of many employees resigning, we shall analyze some possible aspects that may lead to the exit of an employee. Once this data is obtained, the organization will be well informed with the possible problematic areas. This data will then help the organization in reflecting and bringing in change to try and decrease its employee attrition rate. 
 
-Summarizing some of the aspects we covered above we aim to analyze -
+Summarizing some of the aspects we covered above we aim to analyze:
 
-Are the employees who weren’t offered promotion relatively earlier, more likely to leave?
+- Are the employees who weren’t offered promotion relatively earlier, more likely to leave?
+- Is there any specific combination of factors that results in high attrition for any given employee?
+- What is more important to employees, the monetary side of their jobs or the non-monetary side like culture, work-life balance, training, etc. of the company?
+- What is more important to employees, the monetary side of their jobs or the non-monetary side like culture, work-life balance, training, etc. of the company?
+- What is more important to employees, the monetary side of their jobs or the non-monetary side like culture, work-life balance, training, etc. of the company?
   
-Is there any specific combination of factors that results in high attrition for any given employee?
 
-What is more important to employees, the monetary side of their jobs or the non-monetary side like culture, work-life balance, training, etc. of the company?
-
-What are the key factors for each gender to decide whether to leave the company or stay with it?
-
-When provided with information on any new hire (a newly inducted employee), how likely is it that the new employee would leave the organization within months?
     
 
